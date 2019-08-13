@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SnackbarDemo</string>
+
+    <string name="sb_default">SnackBar Default</string>
+    <string name="sb_action">SnackBar Action CallBack</string>
+    <string name="sb_custom">SnackBar Custom Changes</string>
+
+    <string name="sb_clicked">SnackBar Action Clicked</string>
+    <string name="sb_status">SnackBar Status</string>
+    <string name="sb_status_dismiss">SnackBar Dismissed</string>
+    <string name="sb_status_show">SnackBar Shown</string>
+</resources>
+
